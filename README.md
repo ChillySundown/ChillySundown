@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ChillySundown
-- 👀 I’m interested in fullstack software development and hardware engineering
-- 🌱 I’m currently learning C, C++, and Python
-- 💞️ I’m looking to collaborate on open-source projects and machine-learning programs
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I absolutely LOVE Jazz
+- 👋 Hi, I’m Abbas Darwich! I'm a sophomore at MIT studying Electrical Engineering and Computer Science, and my interests lie in robotics, machine learning, and embedded systems.
 
 <!---
 ChillySundown/ChillySundown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
