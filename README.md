@@ -77,7 +77,7 @@ I’m currently developing my skills in C++, Python, and machine learning as I w
 ## 🎶 Fun Fact
 
 I’m a big fan of music! Currently learning to play guitar 🎸  
-Some of my favorite artists include **Tijuana Panthers** and **The Beach Boys** — but I enjoy everything from **jazz fusion** to **stomp-and-holler**. Got a music rec? Send it my way!
+Some of my favorite artists include **Tijuana Panthers** and **The Beach Boys** — but I enjoy everything from **jazz fusion** to **stomp-and-holler**. Feel free to send me any recommendations!
 
 ---
 
