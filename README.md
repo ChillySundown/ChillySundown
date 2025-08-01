@@ -15,7 +15,7 @@
 > *“How does this work?” and “How could we solve this differently?”*  
 > These are the questions that fuel my drive to build, learn, and innovate.
 
-I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love solving challenging problems and collaborating on projects with real-world impact. Let's connect if you want to team up or geek out over cool tech ideas!
+I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love solving challenging problems and collaborating on projects with real-world impact. Let's connect if you share my passion for learning or want to collaborate on a project
 
 ---
 
