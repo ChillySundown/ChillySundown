@@ -61,7 +61,7 @@ I’m currently developing my skills in C++, Python, and machine learning as I w
 ### 🛡️ WardenBot — Discord Spam Removal Bot  
 📍 [View README](https://github.com/ChillySundown/WardenBot/blob/main/README.md)
 
-- Developed a bot to automatically remove spam messages and detect suspicious accounts  
+- Prototyped a Discord bot to remove spam messages and detect suspicious accounts automatically  
 - **Tech:** `JavaScript`, `Node.js`, `Discord.js`  
 - **Skills Gained:** API usage, event-driven programming, basic cybersecurity concepts
 
