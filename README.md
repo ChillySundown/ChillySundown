@@ -7,63 +7,49 @@
 
 ---
 
-🎓 **Electrical Engineering & Computer Science @ MIT**  
-💡 Aspiring Software Developer & Electrical Engineer  
-🤖 Passionate about Robotics, Machine Learning, and Computer Vision  
-🧠 Lifelong learner with a curiosity-driven mindset  
+**Electrical Engineering & Computer Science @ MIT**  
+🤖 Passionate about Robotics, Embedded Systems, ML, and Software Engineering 
 
-> *“How does this work?” and “How could we solve this differently?”*  
-> These are the questions that fuel my drive to build, learn, and innovate.
+My personal philosophy is the key to learning anything is to ask the right questions
 
 I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love solving challenging problems and collaborating on projects with real-world impact. Let's connect if you share my passion for learning or want to collaborate on a project
 
 ---
 
-## 🧰 Tech Stack
-
 **Languages:**  
-`Python` `C++` `C` `Java`
+`Python` `C/C++` `Java` 
 
 **Web Development:**  
-`HTML` `CSS` `JavaScript` `Node.js`
+`HTML` `CSS` `JavaScript`
 
 **Data & ML:**  
 `Pandas` `NumPy` `Scikit-Learn` `Keras` `Seaborn`
 
 **Tools & Environments:**  
-`VSCode` `CLion` `Git` `GitHub` `Jupyter Notebooks`
+`VSCode` `Git` `GitHub` `Linux`
 
 ---
 
-## 🚀 Featured Project: Airbnb Price Estimator  
+## Featured Project: Airbnb Price Estimator  
 📍 [Project README](https://github.com/ChillySundown/Break-Through-Tech-Portfolio/blob/main/README.md)
 
 > Developed a machine learning model that estimates Airbnb listing prices using real-world data from 25,000+ properties.
 
-- ✅ Preprocessed data with `Pandas` and visualized trends using `Seaborn`
-- 🧠 Trained a `Gradient Boosted Regressor` with `Scikit-Learn`
-- 📈 Achieved **R² score of 0.76**, surpassing previous models
+- Preprocessed data with `Pandas` and visualized trends using `Seaborn`
+- Trained a `Gradient Boosted Regressor` with `Scikit-Learn`
+- Achieved **R² score of 0.76**, surpassing previous models
 
 ---
 
-## 🛠️ Other Projects
+## Other Projects
 
-### 🧮 QuackPad Graphing Calculator  
+### QuackPad Graphing Calculator  
 📍 [View README](https://github.com/ChillySundown/QuackPad-Graphing-Calculator/blob/master/README.md)
 
 - Built an interactive graphing calculator with custom data structures
 - Used the **Shunting Yard algorithm** and **RPN** for expression parsing  
 - **Tech:** `C++`, `SFML`  
 - **Skills Gained:** OOP, memory management, algorithm design
-
----
-
-### 🛡️ WardenBot — Discord Spam Removal Bot  
-📍 [View README](https://github.com/ChillySundown/WardenBot/blob/main/README.md)
-
-- Prototyped a Discord bot to remove spam messages and detect suspicious accounts automatically  
-- **Tech:** `JavaScript`, `Node.js`, `Discord.js`  
-- **Skills Gained:** API usage, event-driven programming, basic cybersecurity concepts
 
 ---
 
