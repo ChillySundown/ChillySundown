@@ -10,10 +10,9 @@
 **Electrical Engineering & Computer Science @ MIT**  
 🤖 Passionate about Robotics, Embedded Systems, ML, and Software Engineering 
 
-My personal philosophy is the key to learning anything is to ask the right questions
+My motto is: "Make cool stuff"
 
-I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love solving challenging problems and collaborating on projects with real-world impact. Let's connect if you share my passion for learning or want to collaborate on a project
-
+I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love to learn new skills and build software and hardware with a real-world impact. Let's connect if you share my passion for learning and building
 ---
 
 **Languages:**  
