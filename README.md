@@ -11,9 +11,9 @@
 🤖 Passionate about Robotics, Embedded Systems, ML, and Software Engineering 
 
 My motto is: "Make cool stuff"
-
-I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love to learn new skills and build software and hardware with a real-world impact. Let's connect if you share my passion for learning and building
 ---
+
+**I’m currently developing my skills in C++, Python, and machine learning as I work toward my graduation in **2028**. I love to learn new skills and build software and hardware with a real-world impact. Let's connect if you share my passion for learning and building**
 
 **Languages:**  
 `Python` `C/C++` `Java` 
