@@ -22,24 +22,18 @@ My motto is: "Make cool stuff"
 `HTML` `CSS` `JavaScript`
 
 **Data & ML:**  
-`Pandas` `NumPy` `Scikit-Learn` `Keras` `Seaborn`
+`Pytorch` `Pandas` `NumPy` `Scikit-Learn` 
 
 **Tools & Environments:**  
 `VSCode` `Git` `GitHub` `Linux`
 
 ---
+## Past Projects
 
-## Featured Project: Airbnb Price Estimator  
-📍 [Project README](https://github.com/ChillySundown/Break-Through-Tech-Portfolio/blob/main/README.md)
-
-> Developed a machine learning model that estimates Airbnb listing prices using real-world data from 25,000+ properties.
-
-- Preprocessed data with `Pandas` and visualized trends using `Seaborn`
-- Trained a `Gradient Boosted Regressor` with `Scikit-Learn`
-- Achieved **R² score of 0.76**, surpassing previous models
-
----
-
+### LinkedIn Zip Solver Extension
+[View README.md](https://github.com/ChillySundown/zip-solver/blob/main/README.md)
+- Built a Chrome Extension that autonomously detects and solves LinkedIn's Zip puzzle in under 3 seconds
+- **Tech** `JavaScript`, `npm`, `Jest`
 ## Other Projects
 
 ### QuackPad Graphing Calculator  
@@ -47,8 +41,7 @@ My motto is: "Make cool stuff"
 
 - Built an interactive graphing calculator with custom data structures
 - Used the **Shunting Yard algorithm** and **RPN** for expression parsing  
-- **Tech:** `C++`, `SFML`  
-- **Skills Gained:** OOP, memory management, algorithm design
+- **Tech:** `C++`, `SFML` 
 
 ---
 
