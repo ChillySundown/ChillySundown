@@ -34,13 +34,16 @@ My motto is: "Make cool stuff"
 [View README.md](https://github.com/ChillySundown/zip-solver/blob/main/README.md)
 - Built a Chrome Extension that autonomously detects and solves LinkedIn's Zip puzzle in under 3 seconds
 - **Tech** `JavaScript`, `npm`, `Jest`
-## Other Projects
+
+### Scheme Interpreter
+[View README.md](https://github.com/ChillySundown/scheme-interpreter/blob/main/README.md)
+- Constructed a tree-walking Turing Complete Scheme Interpreter in Python supporting file execution and REPL interaction
+- **Tech** `Python`
 
 ### QuackPad Graphing Calculator  
 📍 [View README](https://github.com/ChillySundown/QuackPad-Graphing-Calculator/blob/master/README.md)
 
 - Built an interactive graphing calculator with custom data structures
-- Used the **Shunting Yard algorithm** and **RPN** for expression parsing  
 - **Tech:** `C++`, `SFML` 
 
 ---
@@ -52,10 +55,10 @@ My motto is: "Make cool stuff"
 
 ---
 
-## 🎶 Fun Fact
+## Fun Fact
 
-I’m a big fan of music! Currently learning to play guitar 🎸  
-Some of my favorite artists include **Tijuana Panthers** and **The Beach Boys** — but I enjoy everything from **jazz fusion** to **stomp-and-holler**. Feel free to send me any recommendations!
+I'm a DJ at MIT's student radio station. WMBR. During the semester,  I host "The Surf Report" -- a gnarly mix of surf rock, jazz fusion, and New Wave Punk. 
+Come listen to WMBR at this link: (https://wmbr.org/WMBR_live_128.m3u)
 
 ---
 
