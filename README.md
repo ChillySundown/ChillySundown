@@ -41,7 +41,7 @@ My motto is: "Make cool stuff"
 - **Tech** `Python`
 
 ### abmalloc 
-📍 [View Repo](https://github.com/ChillySundown/abmalloc)
+[View Repo](https://github.com/ChillySundown/abmalloc)
 - Currently developing a thread-caching memory allocator in C++ based on Google's internal tools.
 - **Tech:** `C++`
 
