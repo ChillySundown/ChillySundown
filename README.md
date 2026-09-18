@@ -31,20 +31,19 @@ My motto is: "Make cool stuff"
 ## Past Projects
 
 ### LinkedIn Zip Solver Extension
-[View README.md](https://github.com/ChillySundown/zip-solver/blob/main/README.md)
+[View Repo](https://github.com/ChillySundown/zip-solver)
 - Built a Chrome Extension that autonomously detects and solves LinkedIn's Zip puzzle in under 3 seconds
 - **Tech** `JavaScript`, `npm`, `Jest`
 
 ### Scheme Interpreter
-[View README.md](https://github.com/ChillySundown/scheme-interpreter/blob/main/README.md)
+[View Repo](https://github.com/ChillySundown/scheme-interpreter)
 - Constructed a tree-walking Turing Complete Scheme Interpreter in Python supporting file execution and REPL interaction
 - **Tech** `Python`
 
-### QuackPad Graphing Calculator  
-📍 [View README](https://github.com/ChillySundown/QuackPad-Graphing-Calculator/blob/master/README.md)
-
-- Built an interactive graphing calculator with custom data structures
-- **Tech:** `C++`, `SFML` 
+### abmalloc 
+📍 [View Repo](https://github.com/ChillySundown/abmalloc)
+- Currently developing a thread-caching memory allocator in C++ based on Google's internal tools.
+- **Tech:** `C++`
 
 ---
 
